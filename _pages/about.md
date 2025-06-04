@@ -29,6 +29,7 @@ My research interest includes Transport Network Optimization, Traffic Flow Predi
 [3] "Research System for Aspect-level Sentiment Classification Integrating Global Context Information" National Copyright Administration of the People’s Republic of China, 2022. Certificate Number: 2022SR0084814.
 
 # 🎖 Honors and Awards
+University of Bristol Business School PhD bursary award 2025-2029
 
 # 📖 Educations
 - *2025.09 - 2029.06*, University of Bristol, Management. 
