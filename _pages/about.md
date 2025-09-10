@@ -35,7 +35,7 @@ Loading...
 [1] University of Bristol Business School PhD bursary award 2025-2029
 
 # 📖 Educations
-- 2025.09 - 2029.06 (expected), University of Bristol, Management, PhD.
-- 2023.08 - 2025.01, National University of Singapore, Civil Engineering (Transport and Urban Mobility), Master.
-- 2019.09 - 2023.06, East China Jiaotong University, Software Engineering and Transportation, Bachlor.
+2025.09 - 2029.06 (expected), University of Bristol, Management, PhD.
+2023.08 - 2025.01, National University of Singapore, Civil Engineering (Transport and Urban Mobility), Master.
+2019.09 - 2023.06, East China Jiaotong University, Software Engineering and Transportation, Bachlor.
 
