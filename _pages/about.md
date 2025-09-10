@@ -21,18 +21,21 @@ Hello！My name is Li Jiazhen. I earned my Bachelor's degree with a double major
 
 My research interest includes Transport Network Optimization, Traffic Flow Prediction, Traffic Flow Control and Optimizaion.
 
-# 📝 Publications and Patents
+# 📝  Publications 
+Loading...
+
+# 💡  Patents
 [1] "An Aspect-level Sentiment Classification Method Integrating Multi-granularity Information" China National Intellectual Property Administration, 2021.
 
-[2] "A Nested Named Entity Recognition Method and Device Integrating Central Word Information" China National Intellectual Property Administration, 2023.
+[2] "Research System for Aspect-level Sentiment Classification Integrating Global Context Information" National Copyright Administration of the People’s Republic of China, 2022.
 
-[3] "Research System for Aspect-level Sentiment Classification Integrating Global Context Information" National Copyright Administration of the People’s Republic of China, 2022.
+[3] "A Nested Named Entity Recognition Method and Device Integrating Central Word Information" China National Intellectual Property Administration, 2023.
 
 # 🎖 Honors and Awards
-University of Bristol Business School PhD bursary award 2025-2029
+[1] University of Bristol Business School PhD bursary award 2025-2029
 
 # 📖 Educations
-- *2025.09 - 2029.06*, University of Bristol, Management, PhD.
-- *2023.08 - 2025.01*, National University of Singapore, Civil Engineering (Transport and Urban Mobility), Master.
-- *2019.09 - 2023.06*, East China Jiaotong University, Software Engineering and Transportation, Bachlor.
+- 2025.09 - 2029.06 (expected), University of Bristol, Management, PhD.
+- 2023.08 - 2025.01, National University of Singapore, Civil Engineering (Transport and Urban Mobility), Master.
+- 2019.09 - 2023.06, East China Jiaotong University, Software Engineering and Transportation, Bachlor.
 
