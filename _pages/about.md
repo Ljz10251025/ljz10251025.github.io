@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello！My name is Li Jiazhen. I earned my Bachelor's degree with a double major in Software Engineering and Transportation. Building on this, I received a Master's degree in Civil Engineering（Transport and Urban Mobility) at the National University of Singapore (NUS). I will continue my PhD study at the University of Bristol in Sep 2025.
+Hello！My name is Jiazhen Li. I'm a PhD student at University of Bristol Business School. Before starting my PhD study, I received a Master's degree in Civil Engineering（Transport and Urban Mobility) at the National University of Singapore (NUS). Additionally, I obtianed a Bachelor's degree with a double major in Software Engineering and Transportation.
 
-My research interest includes Transport Network Optimization, Traffic Flow Prediction, Traffic Flow Control and Optimizaion.
+My research interest includes Transport Network Optimization, Traffic Flow Modelling, Artifical Intellegence (AI) in Transportation.
 
 # 📝  Publications 
-Loading...
+[1] Fundamental Diagram Calibration under Incomplete and Unevenly Distributed Observations, 2026. (Ready to Submit)
+
+[2] EVLLM-X: An Explainable Spatio-temporal Large Language Model for Electric Vehicle Charging Demand Prediction, 2026. (Ready to Submit)
 
 # 💡  Patents
 [1] "An Aspect-level Sentiment Classification Method Integrating Multi-granularity Information" China National Intellectual Property Administration, 2021.
@@ -35,9 +37,9 @@ Loading...
 [1] University of Bristol Business School PhD bursary award 2025-2029
 
 # 📖 Educations
-2025.09 - 2029.06 (expected), University of Bristol, Management, PhD.
+2025 - 2029 (expected), University of Bristol, Management, PhD.
 
-2023.08 - 2025.01, National University of Singapore, Civil Engineering (Transport and Urban Mobility), Master.
+2023 - 2025, National University of Singapore, Civil Engineering (Transport and Urban Mobility), Master.
 
-2019.09 - 2023.06, East China Jiaotong University, Software Engineering and Transportation, Bachlor.
+2019 - 2023, East China Jiaotong University, Software Engineering and Transportation, Bachlor.
 
